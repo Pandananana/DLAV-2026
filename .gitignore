@@ -1,2 +1,4 @@
 data
+MNIST_data
 .DS_Store
+*.pkl
